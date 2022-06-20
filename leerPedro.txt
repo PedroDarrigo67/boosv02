@@ -1,0 +1,35 @@
+info react boostrap react
+https://mdbootstrap.com/docs/b5/react/
+login 
+https://mauriciogc.medium.com/react-renderizando-componentes-condicionales-if-if-else-ternary-switch-m%C3%BAltiples-17519d7e96c1
+
+pagina fazt
+https://faztweb.com/
+tareas en pantalla https://faztweb.com/contenido/react
+curso boostrap https://faztweb.com/contenido/bootstrap4
+cursonuevo https://faztweb.com/contenido/first-website-nodejs
+login https://faztweb.com/contenido/nodejs-mongodb-login
+tareas express y node https://faztweb.com/contenido/stack-mern-ejemplo-practico
+
+
+
+https://getbootstrap.com/docs/5.0/utilities/sizing/
+https://react-bootstrap-v3.netlify.app/
+https://www.youtube.com/watch?v=l2131Rok8XU
+
+logueo
+https://www.positronx.io/build-react-login-sign-up-ui-template-with-bootstrap-4/
+
+Autenticacion
+https://www.youtube.com/watch?v=sTJaHQINpTc
+
+logueo
+https://www.youtube.com/watch?v=DRbXvN10_XA // fazt
+https://www.youtube.com/watch?v=1rgeO_EbSGg // mejor
+
+deploy react, node en heroku app
+https://dev.to/nburgess/creating-a-react-app-with-react-router-and-an-express-backend-33l3
+
+
+
+
